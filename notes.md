@@ -1,0 +1,6 @@
+- first 120 points are "registration points." These can be used to help find transformation between path points and tracker points
+- appears as if x and y coordinates got swapped from path to tracker
+    - x_trk = -(y_pth)
+    - y_trk = x_path ****with odd skew to it****
+- appears as if the y_trk coordinates shift by a constant amount for a constant amount of time
+    - for example, the coordinates are increased by 3 for 3 seconds, then decreased by 3 for the next 3 seconds (these numbers are completely arbitrary and are only used to show to pattern)
