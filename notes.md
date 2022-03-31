@@ -18,3 +18,5 @@
 
 - seems like the robot might be getting held up when circles get completed, little kickbacks
 - for each loop, the robot reaches corresponding points at the same time as the specified path. Suggests issue is in coordinate translation and not mechanics
+
+- in 3D plot of the data, the specified path shape can almost be seen in the tracker path. 
