@@ -15,3 +15,6 @@
 
 - x_trk and y_path have the same amplitude
 - y_trk and x_path have the same min and max values even though y_trk has the shifts described above
+
+- seems like the robot might be getting held up when circles get completed, little kickbacks
+- for each loop, the robot reaches corresponding points at the same time as the specified path. Suggests issue is in coordinate translation and not mechanics
