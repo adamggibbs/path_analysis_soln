@@ -20,3 +20,4 @@
 - for each loop, the robot reaches corresponding points at the same time as the specified path. Suggests issue is in coordinate translation and not mechanics
 
 - in 3D plot of the data, the specified path shape can almost be seen in the tracker path. 
+- there doesn't seem to be a correlation between any specific patterns and errors, the error seems to be general
