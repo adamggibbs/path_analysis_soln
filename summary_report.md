@@ -4,3 +4,4 @@
 
 ### Introduction
 This report will be used to document summary of finding while full report will be documented in analysis.ipynb. This report will also be converted to PDF
+![]("./figs/figrue3_combined_xy.png") 
